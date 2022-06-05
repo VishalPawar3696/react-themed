@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+.light{
+  background-color:wheat;
+  color: #282c34;
+  height: 100vh;
+}
+.dark{
+  background-color: #282c34;
+  color: white;
+  height: 100vh;
+}
